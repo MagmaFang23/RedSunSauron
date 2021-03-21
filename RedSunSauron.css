@@ -28,8 +28,8 @@
     /* Accent Color (Default: red) */
     --accent-color: red;
 
-    /* Background Image (change the url inside the brackets, default: url(https://cdn.discordapp.com/attachments/775097805102383134/818755557577195570/RedSun_Sauron_by-MagmaFang.png); ) */
-    --background-url: url(https://cdn.discordapp.com/attachments/775097805102383134/818755557577195570/RedSun_Sauron_by-MagmaFang.png);
+    /* Background Image (change the url inside the brackets, default: url(https://live.staticflickr.com/65535/51059020252_d52516d9cd_h.png); ) */
+    --background-url: url(https://live.staticflickr.com/65535/51059020252_d52516d9cd_h.png);
     /* Background Color, appears for example behind the server list (Default: darker) */
     --background-color: black;
 
