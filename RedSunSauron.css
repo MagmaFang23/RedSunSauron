@@ -1,0 +1,51 @@
+/**
+* @name RedSunSauron
+* @author  MagmaFang of the Hammer#5165
+* @version  Auto
+* @description Sauron facing the fellowship in front of a red sun. (Black and red)
+* @invite PjM9umvDYx
+* @authorId 594125585056530432
+* @source https://github.com/MagmaFang23/RedSunSauron
+*/
+
+/*
+ /$$$$$$$                      /$$       /$$   /$$ /$$ /$$ /$$                    /$$   /$$ /$$      
+| $$__  $$                    | $$      | $$  /$$/|__/| $$| $$                   | $$  / $$| $$      
+| $$  \ $$  /$$$$$$   /$$$$$$ | $$   /$$| $$ /$$/  /$$| $$| $$  /$$$$$$   /$$$$$$|  $$/ $$/| $$      
+| $$  | $$ |____  $$ /$$__  $$| $$  /$$/| $$$$$/  | $$| $$| $$ /$$__  $$ /$$__  $$\  $$$$/ | $$      
+| $$  | $$  /$$$$$$$| $$  \__/| $$$$$$/ | $$  $$  | $$| $$| $$| $$$$$$$$| $$  \__/ >$$  $$ | $$      
+| $$  | $$ /$$__  $$| $$      | $$_  $$ | $$\  $$ | $$| $$| $$| $$_____/| $$      /$$/\  $$| $$      
+| $$$$$$$/|  $$$$$$$| $$      | $$ \  $$| $$ \  $$| $$| $$| $$|  $$$$$$$| $$     | $$  \ $$| $$$$$$$$
+|_______/  \_______/|__/      |__/  \__/|__/  \__/|__/|__/|__/ \_______/|__/     |__/  |__/|________/
+*/
+
+@import url("https://darkkillerxl.github.io/Red-n-Black/Red%20'n%20Black%20Import.css");
+
+/* Customize */
+:root {
+    /* Primary Color (Default: rgb(56, 0, 0) ) */
+    --color1: rgb(56, 0, 0);
+    /* Secondary Color (Default: rgb(85, 8, 8) ) */
+    --color2: rgb(85, 8, 8);
+
+    /* Primary Color Buttons On Hover (Default: rgb(95, 9, 9) ) */
+    --color3: rgb(95, 9, 9);
+    /* Secondary Color Buttons On Hover (Default: rgb(66, 0, 0) ) */
+    --color4: rgb(71, 0, 0);
+
+    /* Tertiary Color (Default: darkred) */
+    --color10: darkred;
+
+    /* Accent Color (Default: red) */
+    --accent-color: red;
+
+    /* Background Image (change the url inside the brackets, default: url(https://cdn.discordapp.com/attachments/775097805102383134/818755557577195570/RedSun_Sauron_by-MagmaFang.png); ) */
+    --background-url: url(https://cdn.discordapp.com/attachments/775097805102383134/818755557577195570/RedSun_Sauron_by-MagmaFang.png);
+    /* Background Color, appears for example behind the server list (Default: darker) */
+    --background-color: black;
+
+    /* Server image/profile pictures roundness (Default: 3px) */
+    --server-list-rounding: 3px;
+    /* Width for server icons in folders (Default: 40px) */
+    --icon-width: 40px;
+}
