@@ -28,8 +28,8 @@
     /* Accent Color (Default: red) */
     --accent-color: red;
 
-    /* Background Image (change the url inside the brackets, default: url(https://live.staticflickr.com/65535/51059020252_d52516d9cd_h.png); ) */
-    --background-url: url(https://live.staticflickr.com/65535/51059020252_d52516d9cd_h.png);
+    /* Background Image (change the url inside the brackets, default: url(https://i.ibb.co/pL4wdBH/Red-Sun-Sauron-by-Magma-Fang.png); ) */
+    --background-url: url(https://i.ibb.co/pL4wdBH/Red-Sun-Sauron-by-Magma-Fang.png);
     /* Background Color, appears for example behind the server list (Default: darker) */
     --background-color: black;
 
